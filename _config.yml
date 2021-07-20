@@ -4,7 +4,7 @@ description: Life and Career Transformational Coach
 author: Patrycja Evangelou
 
 navbar-links:
-  Home: "comingsoon"
+  Home: "index"
 
 
 
@@ -27,17 +27,17 @@ title-img: "/assets/img/log8c.png"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "pat.firststepcoaching@gmail.com"
-  facebook: "pat.firststepcoaching"
+  facebook: "PatrycjaEvangelou.Coach"
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: patrycjaevangelou
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: "pat.firststepcoaching"
+  instagram: "pat.evangelou"
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -51,7 +51,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: International Transformational Coach
 
 # --- General options --- #
 
@@ -64,7 +64,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "patfirststepcoaching.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
