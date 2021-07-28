@@ -1,11 +1,10 @@
-theme: beautiful-jekyll
 title: PAT First Step Coaching
 description: Life and Career Transformational Coach
 author: Patrycja Evangelou
 
 navbar-links:
   Home: "index"
-
+  About: "about"
 
 
 
