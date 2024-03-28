@@ -9,8 +9,8 @@ cover-img:
   - "/assets/img/dolphin6.jpg"
 ---
 
-<!--<div align="center">
-<h1 style="font-size:5em;color:#caad42;">About Me</h1>
+<div align="center">
+<h1 style="font-size:5em;">About Me</h1>
 </div>
 
 <div class="container">
@@ -24,7 +24,7 @@ PAT uses diverse coaching and mentoring techniques, intelligence, and emotional 
 </div>
 
 <div class="image">
-  <img width="460" src="/assets/img/Pat2.jpg">
+  <img width="260" src="/assets/img/Pat2.jpg">
 </div>
 
 </div>
