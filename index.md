@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PAT First Step Coaching
+title: PAT-First Step Coaching
 subtitle: Website coming soon
 <!-- share-img: /assets/img/logo4.png -->
 share-title: "Pat First Step Coaching"
