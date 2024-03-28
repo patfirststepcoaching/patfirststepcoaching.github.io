@@ -1,11 +1,7 @@
 ---
 layout: page
-title: Services
+title: <h1 style="font-size:4em;color:#caad42;">Services</h1>
 ---
-
-<!--<div align="center">
-<h1 style="font-size:5em;color:#caad42;">Services</h1>
-</div>
 
 * *Coaching:* 1-to-1 or group coaching. I will help you find your own path and guide you to your own realizations about your present and future.
 * *Mentoring:* I will provide guidance on options to help you make the right decisions towards your long-term goals and give you the structure and tools needed to achieve them.

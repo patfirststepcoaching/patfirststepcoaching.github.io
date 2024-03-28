@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: <h1 style="font-size:4em;color:#caad42;">About Me</h1>
 subtitle: Patrycja Evangelou
 ---
 
