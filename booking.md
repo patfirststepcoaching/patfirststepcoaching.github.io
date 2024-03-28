@@ -16,7 +16,7 @@ title: <h1 style="font-size:4em;color:#caad42;">Services</h1>
 <hr style="height:5px;border-width:5;color:#caad42;text-align:center;background-color:#caad42;">
 
 <div align="center">
-<span style="font-size:3em;color:#002950;">Book a Free Consultation</span>
+<span style="font-size:1em;color:#002950;">Book a Free Consultation</span>
 </div>
 -->
 
