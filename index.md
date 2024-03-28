@@ -1,6 +1,7 @@
 ---
 layout: page
-title: PAT-First Step Coaching
+<!-- title: PAT-First Step Coaching -->
+title: <h1 style="font-size:4em;color:#caad42;">PAT-First Step Coaching</h1>
 <!-- share-img: /assets/img/logo.png -->
 share-title: "Pat First Step Coaching"
 share-description: "International Transformational Coach"
@@ -16,7 +17,9 @@ cover-img:
 <div class="container">
 
 <div class="image">
+<p align="center">
   <img width="260" src="/assets/img/Pat2.jpg">
+</p>
 </div>
 
 <div class="text">
