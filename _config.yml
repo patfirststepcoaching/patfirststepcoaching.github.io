@@ -4,7 +4,7 @@ author: Copyright © PAT First Step Coaching. All Rights Reserved.
 
 navbar-links:
   Home: "index"
-  About: "about"
+#  About: "about"
   Booking: "booking"
   Contact Us: "contact"
 
