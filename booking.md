@@ -1,8 +1,17 @@
 ---
 layout: page
-title: Booking
-subtitle: Book a Free Consultation
+title: Services
 ---
+
+<!--<div align="center">
+<h1 style="font-size:5em;color:#caad42;">Services</h1>
+</div>
+
+* *Coaching:* 1-to-1 or group coaching. I will help you find your own path and guide you to your own realizations about your present and future.
+* *Mentoring:* I will provide guidance on options to help you make the right decisions towards your long-term goals and give you the structure and tools needed to achieve them.
+* *Consulting:* I will advise you and provide expertise on how to achieve your specific goals.
+* *Bespoke Programs:* I will design programs specifically suited to your needs, employing a mix of services, coaching, NLP techniques, and emotional and intelligent strategies.
+
 
 <!--<div align="center">
 <h1 style="font-size:5em;color:#caad42;">Booking</h1>
