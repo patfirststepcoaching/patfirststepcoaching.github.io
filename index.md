@@ -36,7 +36,8 @@ Pat utilizes diverse coaching and mentoring techniques, emotional intelligence, 
 <h1 style="font-size:4em;color:#caad42;">Recognition</h1>
 </div>
 
-<div class="row" align="center">
+<div align="center">
+<div class="row">
   <div class="column">
     <img src="/assets/logo/APC.png" alt="APC" width="200">
   </div>
@@ -50,12 +51,14 @@ Pat utilizes diverse coaching and mentoring techniques, emotional intelligence, 
     <img src="/assets/logo/MHFA.png" alt="MHFA" width="150">
   </div>
 </div>
+</div>
 
 <div align="center">
 <h1 style="font-size:4em;color:#caad42;">Partners</h1>
 </div>
 
-<div class="row" align="center">
+<div align="center">
+<div class="row">
   <div class="column">
     <img src="/assets/logo/Hugs.jpeg" alt="Hugs" width="150">
   </div>
@@ -66,3 +69,5 @@ Pat utilizes diverse coaching and mentoring techniques, emotional intelligence, 
     <img src="/assets/logo/Mindfulness.png" alt="Mindfulness" width="150">
   </div>
 </div>
+</div>
+
