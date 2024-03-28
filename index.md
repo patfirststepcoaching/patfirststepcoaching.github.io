@@ -38,16 +38,16 @@ Pat utilizes diverse coaching and mentoring techniques, emotional intelligence, 
 
 <div class="row">
   <div class="column">
-    <img src="/assets/logo/APC.png" alt="APC" style="width:100">
+    <img src="/assets/logo/APC.png" alt="APC" width="10">
   </div>
   <div class="column">
-    <img src="/assets/logo/ECNLP.png" alt="ECNLP" style="width:100">
+    <img src="/assets/logo/ECNLP.png" alt="ECNLP" width="10">
   </div>
   <div class="column">
-    <img src="/assets/logo/NLP.png" alt="NLP" style="width:100">
+    <img src="/assets/logo/NLP.png" alt="NLP" width="10">
   </div>
   <div class="column">
-    <img src="/assets/logo/MHFA.png" alt="MHFA" style="width:100">
+    <img src="/assets/logo/MHFA.png" alt="MHFA" width="10">
   </div>
 </div>
 
@@ -57,12 +57,12 @@ Pat utilizes diverse coaching and mentoring techniques, emotional intelligence, 
 
 <div class="row">
   <div class="column">
-    <img src="/assets/logo/Hugs.jpeg" alt="Hugs" style="width:100">
+    <img src="/assets/logo/Hugs.jpeg" alt="Hugs" width="10">
   </div>
   <div class="column">
-    <img src="/assets/logo/WW.png" alt="WW" style="width:100">
+    <img src="/assets/logo/WW.png" alt="WW" width="10">
   </div>
   <div class="column">
-    <img src="/assets/logo/Mindfulness.png" alt="Mindfulness" style="width:100">
+    <img src="/assets/logo/Mindfulness.png" alt="Mindfulness" width="10">
   </div>
 </div>
