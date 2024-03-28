@@ -10,7 +10,7 @@ cover-img:
 ---
 
 <div align="center">
-<h1 style="font-size:4em;">About Me</h1>
+<h1 style="font-size:4em;color:#caad42;">About Me</h1>
 </div>
 
 <div class="container">
