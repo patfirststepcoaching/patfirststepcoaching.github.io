@@ -1,7 +1,7 @@
 ---
 layout: page
 <!-- title: PAT-First Step Coaching -->
-title: <h1 style="font-size:4em;color:#caad42;">PAT-First Step Coaching</h1>
+title: <h1 style="font-size:3em;color:#caad42;">PAT-First Step Coaching</h1>
 subtitle: <span style="color:#002950;">TAKE CONTROL OF YOUR GROWTH - YOUR STEP, OUR SUCCESS!</span>
 <!-- share-img: /assets/img/logo.png -->
 share-title: "Pat First Step Coaching"
@@ -12,14 +12,14 @@ cover-img:
 ---
 
 <div align="center">
-<h1 style="font-size:4em;color:#caad42;">Mission</h1>
+<h1 style="font-size:3em;color:#caad42;">Mission</h1>
 </div>
 
 Pat assists both macro and micro businesses, as well as young professionals and leaders, in effectively managing themselves and their teams without succumbing to stress. By utilizing the 3 Pillars of Transformation alongside breathing affirmations, Pat facilitates holistic growth and development. She firmly believes that genuine transformation occurs when company executives and leaders prioritize the growth and wellbeing of their teams, fostering a healthier and happier work environment.
 
 
 <div align="center">
-<h1 style="font-size:4em;color:#caad42;">About Me</h1>
+<h1 style="font-size:3em;color:#caad42;">About Me</h1>
 </div>
 
 <p align="center">
@@ -33,7 +33,7 @@ Pat draws her experience from a successful career in various industries, includi
 Pat utilizes diverse coaching and mentoring techniques, emotional intelligence, and strategies for transformation across various settings, offering 1-to-1 and group coaching, workshops, training, and retreats.
 
 <div align="center">
-<h1 style="font-size:4em;color:#caad42;">Recognition</h1>
+<h1 style="font-size:3em;color:#caad42;">Recognition</h1>
 </div>
 
 <div align="center">
@@ -54,7 +54,7 @@ Pat utilizes diverse coaching and mentoring techniques, emotional intelligence, 
 </div>
 
 <div align="center">
-<h1 style="font-size:4em;color:#caad42;">Partners</h1>
+<h1 style="font-size:3em;color:#caad42;">Partners</h1>
 </div>
 
 <div align="center">

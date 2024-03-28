@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h1 style="font-size:4em;color:#caad42;">Services</h1>
+title: <h1 style="font-size:3em;color:#caad42;">Services</h1>
 ---
 
 * **Coaching:** 1-to-1 or group coaching. I will help you find your own path and guide you to your own realizations about your present and future.
@@ -20,7 +20,9 @@ title: <h1 style="font-size:4em;color:#caad42;">Services</h1>
 </div>
 -->
 
-<h1 style="font-size:1em;color:#caad42;">Book Free Discovery Call</h1>
+<div align="center">
+<h1 style="font-size:2em;color:#caad42;">Book Free Discovery Call</h1>
+</div>
 
 <div id="booking">
 <!-- Calendly inline widget begin -->
