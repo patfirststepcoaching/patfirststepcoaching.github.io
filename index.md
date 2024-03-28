@@ -2,7 +2,7 @@
 layout: page
 <!-- title: PAT-First Step Coaching -->
 title: <h1 style="font-size:4em;color:#caad42;">PAT-First Step Coaching</h1>
-subtitle: TAKE CONTROL OF YOUR GROWTH - YOUR STEP, OUR SUCCESS!
+subtitle: <span style="font-size:3em;color:#002950;">TAKE CONTROL OF YOUR GROWTH - YOUR STEP, OUR SUCCESS!</span>
 <!-- share-img: /assets/img/logo.png -->
 share-title: "Pat First Step Coaching"
 share-description: "International Transformational Coach"
@@ -32,3 +32,37 @@ Pat draws her experience from a successful career in various industries, includi
 
 Pat utilizes diverse coaching and mentoring techniques, emotional intelligence, and strategies for transformation across various settings, offering 1-to-1 and group coaching, workshops, training, and retreats.
 
+<div align="center">
+<h1 style="font-size:4em;color:#caad42;">Recognition</h1>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/logo/APC.png" alt="APC" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/logo/ECNLP.png" alt="ECNLP" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/logo/NLP.png" alt="NLP" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/logo/MHFA.png" alt="MHFA" style="width:100%">
+  </div>
+</div>
+
+<div align="center">
+<h1 style="font-size:4em;color:#caad42;">Partners</h1>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/logo/Hugs.jpeg" alt="Hugs" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/logo/WW.png" alt="WW" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/logo/Mindfulness.png" alt="Mindfulness" style="width:100%">
+  </div>
+</div>
