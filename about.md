@@ -5,7 +5,7 @@ subtitle: Patrycja Evangelou
 ---
 
 <p align="center">
-  <img width="460" src="/assets/img/patrycja-62.jpg">
+  <img width="460" src="/assets/img/Pat2.jpg">
 </p>
 
 PAT is an Entrepreneur, Certified Life, NLP & Wellbeing Coach, Mentor, Speaker, Facilitator, and Growth Strategist, who has been helping young professionals and leaders, wanting to experience exponential growth without the stress, by increasing their resilience and providing transformational tools to level up their career and business impact. She is an empathetic and open-minded coach of 20 years' experience and founder of PAT-First Step Coaching, the core values of which include diversity, relationship, self-growth and self-confidence.
