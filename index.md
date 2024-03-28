@@ -9,6 +9,14 @@ cover-img:
   - "/assets/img/dolphin6.jpg"
 ---
 
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+</style>
+</head>
+<body>
+
 # About Me
 
 <p align="center">
